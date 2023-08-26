@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Karthikeyan L
 
-Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusiast
+Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusiast | Full Stack Developer
 
 🎓 Studying at M.Kumarasamy College of Engineering
 
 🔭 I'm passionate about leveraging AI to solve real-world problems and uncover insights from data.
 
-🌱 Currently honing my skills in machine learning, deep learning, and NLP.
+🌱 Currently honing my skills in machine learning, deep learning, NLP and Web development.
 
 💡 Exploring cloud computing platforms like AWS, Azure, and Google Cloud.
 
@@ -18,6 +18,7 @@ Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusias
 
 - Programming: Python, C, Java, JavaScript
 - Web: HTML, CSS
+- Frame works: Node JS,React JS,Django,Flask
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 - Cloud: AWS, Azure, Google Cloud
 - Natural Language Processing (NLP)
