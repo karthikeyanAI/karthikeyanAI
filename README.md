@@ -26,7 +26,7 @@ Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusias
 ### Connect with Me
 
 📫 Feel free to reach out for collaborations, discussions, or just to say hi:
-- Email: your.email@example.com
+- Email:karthiklogu67@gmail.com
 - LinkedIn: https://www.linkedin.com/in/karthikeyan-l-98763917
 
 
