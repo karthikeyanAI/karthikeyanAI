@@ -1,44 +1,38 @@
-### Hi there 👋 I am Karthikeyan L
+<h1 align="center">Hi there 👋 I am Karthikeyan L</h1>
+<h3 align="center">Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusiast | Full Stack Developer</h3>
 
-Final Year AI and Data Science Student | Aspiring AI Developer | Cloud Enthusiast | Full Stack Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanai&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeyanai" /> </p>
 
-🎓 Studying at M.Kumarasamy College of Engineering
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeyanai" alt="karthikeyanai" /></a> </p>
 
-🔭 I'm passionate about leveraging AI to solve real-world problems and uncover insights from data.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Currently honing my skills in machine learning, deep learning, NLP and Web development.
+- 🔭 I’m currently working on **Replica the smart assitant**
 
-💡 Exploring cloud computing platforms like AWS, Azure, and Google Cloud.
+- 🌱 I’m currently learning **Django,Flask,Node JS,React JS**
 
-🚀 Building projects at the intersection of AI and web applications.
+- 📫 How to reach me **Karthiklogu67@gmail.com**
 
-📚 Constantly learning and staying updated with the latest trends in AI and data science.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nn_oIwgjvg0aGVm_P3JC7kasyi-s2d_r/view?usp=sharing](https://drive.google.com/file/d/1nn_oIwgjvg0aGVm_P3JC7kasyi-s2d_r/view?usp=sharing)
 
-### Skills and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/karthikeyan l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karthikeyan l" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthikeyan l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan l" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/karthikeyan l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikeyan l" height="30" width="40" /></a>
+<a href="https://kaggle.com/karthikeyan l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthikeyan l" height="30" width="40" /></a>
+<a href="https://instagram.com/karthikeyan666668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikeyan666668" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21lai001- karthikeyan l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21lai001- karthikeyan l" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/karthikeyanl2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karthikeyanl2021" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karthiklogu67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthiklogu67" height="30" width="40" /></a>
+</p>
 
-- Programming: Python, C, Java, JavaScript
-- Web: HTML, CSS
-- Frame works: Node JS,React JS,Django,Flask
-- Machine Learning: Scikit-learn, TensorFlow, Keras
-- Cloud: AWS, Azure, Google Cloud
-- Natural Language Processing (NLP)
-- Data Visualization
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikeyanai&show_icons=true&locale=en&layout=compact" alt="karthikeyanai" /></p>
 
-📫 Feel free to reach out for collaborations, discussions, or just to say hi:
-- Email:karthiklogu67@gmail.com
-- LinkedIn: https://www.linkedin.com/in/karthikeyan-l-98763917
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikeyanai&show_icons=true&locale=en" alt="karthikeyanai" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyanai&" alt="karthikeyanai" /></p>
 
-### Goals
-
-🎯 I'm on a journey to become a proficient AI developer and contribute to innovative AI solutions that make a positive impact.
-
-🎯 Excited to delve deeper into cloud-based AI applications and explore novel use cases.
-
-🎯 Looking forward to connecting with like-minded individuals and learning from the vibrant AI and data science community.
-
-### Let's Connect and Collaborate!
-
-Feel free to explore my repositories, check out my projects, and connect with me. Let's learn and grow together in the exciting world of AI and data science!
